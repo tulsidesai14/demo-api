@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regulatory Intelligence API - Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .last-updated {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-left: 4px solid #3498db;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy - Regulatory Intelligence API</h1>
+    
+    <div class="last-updated">
+        <strong>Last Updated:</strong> July 20, 2024
+    </div>
+
+    <h2>Overview</h2>
+    <p>This Privacy Policy describes how the Regulatory Intelligence API ("Service") collects, uses, and protects information when you use our regulatory compliance assistant.</p>
+
+    <h2>Information We Collect</h2>
+    <ul>
+        <li><strong>API Usage Data:</strong> We collect metadata about API requests including timestamps, request types, and response status codes.</li>
+        <li><strong>Document Analysis:</strong> When you upload documents for compliance review, we process the content to provide regulatory analysis.</li>
+        <li><strong>No Personal Data Storage:</strong> We do not store personal information, document content, or analysis results beyond the active session.</li>
+    </ul>
+
+    <h2>How We Use Information</h2>
+    <ul>
+        <li>Provide regulatory compliance analysis and recommendations</li>
+        <li>Retrieve current regulatory updates from public sources</li>
+        <li>Improve service performance and reliability</li>
+    </ul>
+
+    <h2>Data Security</h2>
+    <p>We implement appropriate security measures to protect against unauthorized access, alteration, disclosure, or destruction of information.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>This service integrates with OpenAI's GPT platform and retrieves regulatory information from public regulatory bodies (FINRA, SEC, CFTC).</p>
+
+    <h2>Data Retention</h2>
+    <p>Document analysis and API responses are not permanently stored. All processing occurs in real-time during your session.</p>
+
+    <h2>Contact Information</h2>
+    <p>For privacy-related questions about this demo service, please contact the GPT developer.</p>
+
+    <h2>Demo Notice</h2>
+    <p><em>This is a demonstration service created for educational purposes. In a production environment, this policy would be more comprehensive and tailored to specific organizational requirements.</em></p>
+</body>
+</html>
+
