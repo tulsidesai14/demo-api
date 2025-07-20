@@ -1,1 +1,1 @@
-# openai-demo-api
+# demo-api
