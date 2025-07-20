@@ -1,0 +1,43 @@
+{
+  "updates": [
+    {
+      "id": "FINRA-2024-001",
+      "title": "FINRA Rule 2241 Amendment - Enhanced Disclosure Requirements",
+      "effective_date": "2024-08-01",
+      "summary": "New requirements for investment banking relationship disclosures in equity research reports. Firms must now provide more detailed conflict disclosures when the firm has provided investment banking services to the subject company within the past 12 months.",
+      "impact_level": "HIGH",
+      "source": "FINRA",
+      "reference_url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/2241"
+    },
+    {
+      "id": "SEC-2024-012",
+      "title": "Regulation AC Certification Updates",
+      "effective_date": "2024-07-15",
+      "summary": "Clarification on analyst certification requirements for cross-border research distribution. New guidance on personal holdings disclosure requirements for analysts covering international equities.",
+      "impact_level": "MEDIUM",
+      "source": "SEC",
+      "reference_url": "https://www.sec.gov/rules/final/33-8193.htm"
+    },
+    {
+      "id": "FINRA-2024-003",
+      "title": "Rule 2242 Guidance - Investment Banking Conflicts",
+      "effective_date": "2024-06-30",
+      "summary": "New guidance on identifying and disclosing investment banking conflicts of interest. Enhanced requirements for quiet period compliance and distribution restrictions.",
+      "impact_level": "HIGH",
+      "source": "FINRA",
+      "reference_url": "https://www.finra.org/rules-guidance/rulebooks/finra-rules/2242"
+    },
+    {
+      "id": "CFTC-2024-008",
+      "title": "Enhanced Material Conflict Disclosure Standards",
+      "effective_date": "2024-09-01",
+      "summary": "Updated standards for disclosing material conflicts in commodity and derivatives research. New requirements for position disclosure by research personnel.",
+      "impact_level": "MEDIUM",
+      "source": "CFTC",
+      "reference_url": "https://www.cftc.gov/LawRegulation/FederalRegister/index.htm"
+    }
+  ],
+  "total_updates": 4,
+  "last_updated": "2024-07-20T10:00:00Z",
+  "jurisdiction": "US"
+}
